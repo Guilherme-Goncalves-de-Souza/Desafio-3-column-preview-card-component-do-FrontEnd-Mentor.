@@ -16,6 +16,7 @@ font-family: 'Lexend Deca', sans-serif;
 body {
   font-size: 15px;
   overflow: hidden;
+  background-color: hsl(0, 0%, 95%);
 }
 
 main {
