@@ -1,11 +1,28 @@
-# Desafio-3-column-preview-card-component-do-FrontEnd-Mentor.
+## 3-column preview card component
 
-[Link do projeto](https://guilherme-goncalves-de-souza.github.io/Desafio-3-column-preview-card-component-do-FrontEnd-Mentor./)
++1 projeto feito sozinho.
 
-#### + 1 projeto feito sozinho.
+Esse desafio foi proposto no site do Frontend Mentor.
 
-### Nesse projeto pratiquei meu conhecimento em Flexbox, e também aprendi a mexer com media query.
+### Os desafios do [Frontend Mentor](https://www.frontendmentor.io) ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas. 
 
-[Link do Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/)
+Desktop design:            |  Mobile design:
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/85903509/148704962-674e9456-f76f-4c8d-b8d7-1afaf4e9cbad.png">  |  <img src="https://user-images.githubusercontent.com/85903509/148704964-b9a60e5b-b89d-4958-85a2-bc9dda64918e.png">
 
-![image](https://user-images.githubusercontent.com/85903509/148467775-63185fa5-ba3b-4699-abcb-ee9b737f4a27.png)
+---------------------------------------
+
+## Tecnologias usadas:
+
+<div>
+  <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> -
+  <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+</div>
+
+---------------------------------------
+
+## Desafios enfrentados no projeto:
+
+Os desafio que enfrentei foram o de mexer no Flexbox, e de responsividade do site, e para isso tive que aprender sobre Media queries.
+
+Mas como podem ver no <https://guilherme-goncalves-de-souza.github.io/Desafio-3-column-preview-card-component-do-FrontEnd-Mentor./>, consegui passar por esses desafios e concluir o desafio.
