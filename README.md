@@ -23,6 +23,7 @@ Desktop design:            |  Mobile design:
 
 ## Desafios enfrentados no projeto:
 
-Os desafio que enfrentei foram o de mexer no Flexbox, e de responsividade do site, e para isso tive que aprender sobre Media queries.
+- Mexer no Flexbox, eu ja sabia sobre flexbox, mas foi meu primeiro projeto usando ele.
+- Responsividade do site, e para isso tive que aprender sobre Media queries.
 
 Mas como podem ver no <https://guilherme-goncalves-de-souza.github.io/Desafio-3-column-preview-card-component-do-FrontEnd-Mentor./>, consegui passar por esses desafios e concluir o desafio.
